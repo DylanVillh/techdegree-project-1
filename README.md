@@ -1,2 +1,2 @@
 # techdegree-project-1
- creating profile webpage
+ Creating profile webpage
