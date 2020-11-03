@@ -88,7 +88,7 @@ header .profile-image:hover {
   background-color: white;
   color: black;
 }
-.card {
+.info-block {
   margin: 30px;
   padding: 20px 20px 40px;
   max-width: 500px;
@@ -99,8 +99,8 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
-.card:hover {
-  border-color: #ff99ff;
+.info-block:hover {
+  border-color: #020153;
 }
 
 ul.skills {
@@ -130,7 +130,7 @@ ul.hobbies {
   margin: 0;
 }
 
-.hobby-picture{
+.info-block-pic{
   width: 100px;
   height: 100px;
 }
